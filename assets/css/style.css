@@ -1,0 +1,73 @@
+body{
+    background-color: #D5FFFF;
+}
+.nav-link{
+    color: #D5FFFF;
+    font-weight: bold;
+}
+.navbar {
+  background-color: #005954;
+}
+.navbar-brand {
+  color: #D5FFFF;
+  font-weight: bold;
+}
+.nav-link {
+  color: white;
+  margin-right: 10px;
+}
+.title {
+  background-color: #9ce0db;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+.title-text {
+  font-size: 24px;
+  font-weight: bold;
+}
+.subtitle {
+  text-align: center;
+  margin-top: 30px;
+}
+.rectangle {
+  background-color: #9ce0db;
+  padding: 20px;
+  margin-top: 20px;
+}
+.container-fluid{
+    background-color: #9CE0DB;
+}
+.rectangle{
+    background-color: #5DC1B9;
+}
+#navbarNav {
+    display: flex;
+    justify-content: flex-end;
+}
+#Bienvenido {
+    background-color: #9CE0DB;
+}
+#p1{
+    background-color: #5DC1B9;
+}
+#NuestraPasion{
+    background-color: #9CE0DB;
+    margin-top: 0px;
+}
+#p2{
+    background-color: #5DC1B9;
+}
+#equipo {
+  justify-content: right;
+  background-color: white;
+}
+#p3 {
+  background-color: #5DC1B9;
+}
+#Com {
+  justify-content: right;
+  background-color: #9CE0DB;
+}

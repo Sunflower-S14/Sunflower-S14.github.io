@@ -1,0 +1,32 @@
+.navbar {
+    background-color: #005954;
+  }
+  .navbar-brand {
+    color: #9ce0db;
+    font-weight: bold;
+  }
+  .nav-link {
+    color: white;
+    margin-right: 10px;
+  }
+  .title {
+    background-color: #9ce0db;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+  }
+  .title-text {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  .subtitle {
+    text-align: center;
+    margin-top: 30px;
+  }
+  .rectangle {
+    background-color: #9ce0db;
+    padding: 20px;
+    margin-top: 20px;
+  }
